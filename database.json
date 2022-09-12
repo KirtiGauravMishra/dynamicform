@@ -1,0 +1,48 @@
+{
+    "user": [
+      {
+        "name": "Ram",
+        "fathername": "rambabu",
+        "address": "Bihar, India",
+        "email": "rama123@gmail.com",
+        "contact": "83673677367635",
+        "gender":"male",
+        "dob": "13th august,1990",
+        "country":"India",
+        "id": 1
+      },
+      {
+        "name": "sita",
+        "fathername": "rambabu",
+        "address": "Bihar, India",
+        "email": "ramaji123@gmail.com",
+        "contact": "83673677367635",
+        "gender":"Female",
+        "dob": "13th january,1990",
+        "country":"India",
+        "id": 2
+      },
+      {
+        "name": "sohan",
+        "fathername": "shyambabu",
+        "address": "Bihar, India",
+        "email": "rama123@gmail.com",
+        "contact": "83673677367635",
+        "gender":"male",
+        "dob": "13th august,1990",
+        "country":"India",
+        "id": 3
+      },
+      {
+        "name": "mohan",
+        "fathername": "rambabuji",
+        "address": "Bihar, India",
+        "email": "rama123@gmail.com",
+        "contact": "83673677367635",
+        "gender":"male",
+        "dob": "13th august,1990",
+        "country":"India",
+        "id": 4
+      }
+    ]
+  }
