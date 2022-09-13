@@ -15,6 +15,7 @@ import "./component.css";
 import Navigation from './Navbar';
 import Button from "@material-ui/core/Button";
 import ButtonGroup from "@material-ui/core/ButtonGroup";
+import Navbar from './Navigation/Navmain';
 
 import { useSelector,useDispatch } from 'react-redux';
 //useSelector and Dispatch are set of hooks to use as alternatives to the
@@ -49,7 +50,7 @@ const StyledTableCell = styled(TableCell)(({ theme }) => ({
 
   const useStyles = makeStyles({
     table: {
-      marginTop: 100,
+      marginTop: 50,
       minWidth: 700,
     },
   });
@@ -73,7 +74,8 @@ const Home = () => {
 
   return (
     <div>
-        <Navigation /> 
+      
+        <Navbar/>
      
        <TableContainer component={Paper}>
       <Table className={classes.table} sx={{ minWidth: 700 }} aria-label="customized table">

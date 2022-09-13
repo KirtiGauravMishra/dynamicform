@@ -160,17 +160,6 @@
     },
     {
       "name": "kirti",
-      "email": "kirtigauravmishra@gmail.com",
-      "fathersname": "srtrte",
-      "address": "Ahiyapur, chakmohabbat, P.o. Bhikhanpur",
-      "contact": "7474747474",
-      "gender": "Male",
-      "dob": "",
-      "country": "India",
-      "id": 15
-    },
-    {
-      "name": "kirti",
       "email": "kiirti@gmail.com",
       "fathersname": "Brahmendra narayan",
       "address": "efojherfiuh",
@@ -180,6 +169,17 @@
       "country": "India",
       "DOB": "2022-09-16",
       "id": 16
+    },
+    {
+      "name": "kirtiii",
+      "email": "abc@gmail.com",
+      "fathersname": "brah",
+      "address": "adjh",
+      "contact": "398",
+      "gender": "male",
+      "dob": "2022-09-16",
+      "country": "India",
+      "id": 17
     }
   ]
 }

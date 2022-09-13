@@ -13,6 +13,7 @@ import { useDispatch } from 'react-redux';
 import { addUser } from '../redux/actions';
 import { makeStyles } from "@material-ui/core/styles";
 import DatePicker from "react-datepicker";
+import Navbar from './Navigation/Navmain';
 
 
 const AddUser = () => {
@@ -61,14 +62,8 @@ const AddUser = () => {
 
   return (
     <div>
-       <Button
-        style={{ width: "100px", marginTop: "20px" }}
-        variant="contained"
-        color="secondary"
-        onClick={() => history("/")}
-      >
-        Go Back
-      </Button>
+        <Navbar />
+      
     
       <h2><center>Add Students Detail</center></h2>
       {error && <h3 style={{ color: "red" }}>{error}</h3>}

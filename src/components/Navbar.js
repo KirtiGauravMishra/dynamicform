@@ -27,7 +27,7 @@ const Navigation = () => {
   return (
     
     <div className={buttonStyles.root}>
-        
+       
        
         <Button
            variant="contained"
@@ -37,6 +37,9 @@ const Navigation = () => {
         >
          Register Students 
         </Button>
+      
+      
+        
 
     </div>
 
