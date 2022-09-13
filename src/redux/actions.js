@@ -1,9 +1,16 @@
 import * as types from "./actionType";
 import axios from "axios";
 
+// defining and dispatching my action 
+
 const getUsers = (users) => ({
     type: types.GET_USERS,
     payload: users,
+  });
+
+  // adding users
+  const userAdded = () => ({
+    type: types.ADD_USER,
   });
 
 export const loadUsers = () => {
@@ -22,3 +29,16 @@ export const loadUsers = () => {
     };
   };
   
+
+  export const addUser = (user) => {
+    return function (dispatch) {
+      axios
+        .post(`${process.env.REACT_APP_API}`, user)
+        .then((resp) => {
+          console.log("resp", resp);
+          dispatch(userAdded());
+          dispatch(loadUsers());
+        })
+        .catch((error) => console.log(error));
+    };
+  };

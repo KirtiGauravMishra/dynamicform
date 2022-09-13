@@ -16,7 +16,7 @@ const usersReducers = (state = initialState, action) => {
           users: action.payload,
           loading: false,
         }
-
+    case types.ADD_USER:
     default:
       return state;
   }

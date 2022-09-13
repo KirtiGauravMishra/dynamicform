@@ -1,48 +1,185 @@
 {
-    "user": [
-      {
-        "name": "Ram",
-        "fathername": "rambabu",
-        "address": "Bihar, India",
-        "email": "rama123@gmail.com",
-        "contact": "83673677367635",
-        "gender":"male",
-        "dob": "13th august,1990",
-        "country":"India",
-        "id": 1
-      },
-      {
-        "name": "sita",
-        "fathername": "rambabu",
-        "address": "Bihar, India",
-        "email": "ramaji123@gmail.com",
-        "contact": "83673677367635",
-        "gender":"Female",
-        "dob": "13th january,1990",
-        "country":"India",
-        "id": 2
-      },
-      {
-        "name": "sohan",
-        "fathername": "shyambabu",
-        "address": "Bihar, India",
-        "email": "rama123@gmail.com",
-        "contact": "83673677367635",
-        "gender":"male",
-        "dob": "13th august,1990",
-        "country":"India",
-        "id": 3
-      },
-      {
-        "name": "mohan",
-        "fathername": "rambabuji",
-        "address": "Bihar, India",
-        "email": "rama123@gmail.com",
-        "contact": "83673677367635",
-        "gender":"male",
-        "dob": "13th august,1990",
-        "country":"India",
-        "id": 4
-      }
-    ]
-  }
+  "user": [
+    {
+      "name": "Ram",
+      "fathersname": "rambabu",
+      "address": "Bihar, India",
+      "email": "rama123@gmail.com",
+      "contact": "83673677367635",
+      "gender": "male",
+      "dob": "13th august,1990",
+      "country": "India",
+      "id": 1
+    },
+    {
+      "name": "sita",
+      "fathersname": "rambabu",
+      "address": "Bihar, India",
+      "email": "ramaji123@gmail.com",
+      "contact": "83673677367635",
+      "gender": "Female",
+      "dob": "13th january,1990",
+      "country": "India",
+      "id": 2
+    },
+    {
+      "name": "sohan",
+      "fathersname": "shyambabu",
+      "address": "Bihar, India",
+      "email": "rama123@gmail.com",
+      "contact": "83673677367635",
+      "gender": "male",
+      "dob": "13th august,1990",
+      "country": "India",
+      "id": 3
+    },
+    {
+      "name": "mohan",
+      "fathersname": "rambabuji",
+      "address": "Bihar, India",
+      "email": "rama123@gmail.com",
+      "contact": "83673677367635",
+      "gender": "male",
+      "dob": "13th august,1990",
+      "country": "India",
+      "id": 4
+    },
+    {
+      "name": "dfrkjwegn",
+      "email": "dsf",
+      "fathersname": "jdfj",
+      "address": "cjdj",
+      "contact": "234345",
+      "gender": "",
+      "dob": "qakjgnk",
+      "country": "India",
+      "id": 5
+    },
+    {
+      "name": "hello ji",
+      "email": "hyfhfh",
+      "fathersname": "hdhf",
+      "address": "jdif",
+      "contact": "8457576",
+      "gender": "",
+      "dob": "747",
+      "country": "india",
+      "id": 6
+    },
+    {
+      "name": "raju",
+      "email": "raj@gmail.com",
+      "fathersname": "abc",
+      "address": "Ahiyapur",
+      "contact": "7764999994",
+      "gender": "",
+      "dob": "13th aug 1999",
+      "country": "India",
+      "id": 7
+    },
+    {
+      "name": "fjfjh",
+      "email": "DSAF@GMAIL.COM",
+      "fathersname": "sdfgerg",
+      "address": "jdjd",
+      "contact": "858758",
+      "gender": "",
+      "dob": "747",
+      "country": "India",
+      "id": 8
+    },
+    {
+      "name": "absdbd",
+      "email": "dfd@gmail.com",
+      "fathersname": "jdjdj",
+      "address": "jdjdj",
+      "contact": "73747",
+      "gender": "",
+      "dob": "13th august 1999",
+      "country": "India",
+      "id": 9
+    },
+    {
+      "name": "abs",
+      "email": "kiirtigaurav1@gmail.com",
+      "fathersname": "jndsfjhdf",
+      "address": "VILL-Shekpura ,CT,Block -Mushari",
+      "contact": "8932748",
+      "gender": "",
+      "dob": "13th aug 2000",
+      "country": "India",
+      "row-radio-buttons-group": "",
+      "id": 10
+    },
+    {
+      "name": "kirti gaurav",
+      "email": "kirtigauravmishra@gmail.com",
+      "fathersname": "asdf",
+      "address": "Ahiyapur, chakmohabbat, P.o. Bhikhanpur",
+      "contact": "848748748",
+      "gender": "",
+      "dob": "13th aug 1999",
+      "country": "India",
+      "row-radio-buttons-group": "",
+      "id": 11
+    },
+    {
+      "name": "aswdh",
+      "email": "oidhf@gmail.com",
+      "fathersname": "kirti",
+      "address": "osdfj",
+      "contact": "7474747",
+      "gender": "",
+      "dob": "dfkj",
+      "country": "Indian",
+      "id": 12
+    },
+    {
+      "name": "asdjnbsd",
+      "email": "kiirti@gmail.com",
+      "fathersname": "huiasnd",
+      "address": "zdfdsf",
+      "contact": "663636",
+      "gender": "",
+      "dob": "233ed",
+      "country": "India",
+      "row-radio-buttons-group": "male",
+      "id": 13
+    },
+    {
+      "name": "kjrnfjier",
+      "email": "kiirtigaurav1@jio.com",
+      "fathersname": "kjhdfjiubf",
+      "address": "ksfihn",
+      "contact": "345354",
+      "gender": "",
+      "dob": "2343",
+      "country": "iNDIA",
+      "row-radio-buttons-group": "male",
+      "id": 14
+    },
+    {
+      "name": "kirti",
+      "email": "kirtigauravmishra@gmail.com",
+      "fathersname": "srtrte",
+      "address": "Ahiyapur, chakmohabbat, P.o. Bhikhanpur",
+      "contact": "7474747474",
+      "gender": "Male",
+      "dob": "",
+      "country": "India",
+      "id": 15
+    },
+    {
+      "name": "kirti",
+      "email": "kiirti@gmail.com",
+      "fathersname": "Brahmendra narayan",
+      "address": "efojherfiuh",
+      "contact": "1398723489",
+      "gender": "male",
+      "dob": "2024-03-08",
+      "country": "India",
+      "DOB": "2022-09-16",
+      "id": 16
+    }
+  ]
+}

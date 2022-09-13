@@ -97,7 +97,7 @@ const Home = () => {
                 {user.name}
               </StyledTableCell>
               <StyledTableCell align="center">{user.email}</StyledTableCell>
-              <StyledTableCell align="center">{user.fathername}</StyledTableCell>
+              <StyledTableCell align="center">{user.fathersname}</StyledTableCell>
               <StyledTableCell align="center">{user.address}</StyledTableCell>
               <StyledTableCell align="center">{user.contact}</StyledTableCell>
               <StyledTableCell align="center">{user.gender}</StyledTableCell>
